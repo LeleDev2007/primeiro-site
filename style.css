@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(192, 158, 171); 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    color: rgb(233, 23, 187);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
